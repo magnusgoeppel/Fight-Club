@@ -1,0 +1,14 @@
+# ninja log v5
+369	459	7044902949108678	UE03_Fight_Club.exe	486dfc9c023a5b54
+396	490	7290203811892677	Fight_Club.exe	8b93d96038b70763
+15	75	7290203390990347	CMakeFiles/Fight_Club.dir/Klassen/Skill/Skill.cpp.obj	39896a561cbf86ac
+22	509	7290203395322665	CMakeFiles/Fight_Club.dir/Klassen/Skill/Jump/Jump.cpp.obj	b8853d8e4502d013
+40	96	7290203391211970	CMakeFiles/Fight_Club.dir/Klassen/Playmode/Playmode.cpp.obj	99556c29525bbea8
+33	506	7290203395293564	CMakeFiles/Fight_Club.dir/Klassen/Playmode/PlaymodeHard/PlaymodeHard.cpp.obj	27f800b708af22a9
+3	246	7290203809488911	CMakeFiles/Fight_Club.dir/main.cpp.obj	58f9e93f7747285f
+19	554	7290203395771625	CMakeFiles/Fight_Club.dir/Klassen/Skill/Block/Block.cpp.obj	a72213f07d2acd0d
+36	482	7290203395054319	CMakeFiles/Fight_Club.dir/Klassen/Playmode/PlaymodeEasy/PlaymodeEasy.cpp.obj	af7d3264b38ae59d
+25	533	7290203395562789	CMakeFiles/Fight_Club.dir/Klassen/Skill/Punch/Punch.cpp.obj	a1c4f071893f92bd
+29	528	7290203395517412	CMakeFiles/Fight_Club.dir/Klassen/Skill/Kick/Kick.cpp.obj	a14f17c90d199377
+12	557	7290203395818574	CMakeFiles/Fight_Club.dir/Klassen/Character/Character.cpp.obj	eacdabdd50a1bf0d
+8	396	7290203810994746	CMakeFiles/Fight_Club.dir/Klassen/GameManager/GameManager.cpp.obj	f1b33192b488c062

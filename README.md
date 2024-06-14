@@ -1,19 +1,19 @@
-# Fight Club Spiel
-Das Fight Club Spiel ist ein Konsolenbasiertes Kampfspiel, in dem zwei Charaktere gegeneinander antreten. Spieler können entweder gegen einen anderen Spieler oder gegen den Computer kämpfen. Jeder Charakter kann zwei Fähigkeiten auswählen, die er im Kampf verwenden kann.
+# Fight Club Game
+The Fight Club Game is a console-based fighting game where two characters face off against each other. Players can either fight against another player or against the computer. Each character can choose two abilities to use in combat.
 
-## Voraussetzungen
+## Requirements
 - g++ Compiler
 
-## Spielanleitung
-- Charakterauswahl: Jeder Spieler wählt zwei Fähigkeiten für seinen Charakter aus den Optionen: Punch, Kick, Block, Jump.
-- Spielmodus wählen: Entscheiden Sie, ob Sie gegen einen anderen Spieler oder den Computer kämpfen möchten.
-- Kampf: Spieler setzen abwechselnd ihre Fähigkeiten ein, um den Gegner zu besiegen.
+## Game Instructions
+- **Character Selection**: Each player selects two abilities for their character from the options: Punch, Kick, Block, Jump.
+- **Choose Game Mode**: Decide whether to fight against another player or the computer.
+- **Combat**: Players take turns using their abilities to defeat the opponent.
 
-## Programmstruktur
+## Program Structure
 
-Das Projekt besteht aus mehreren Klassen, die die Logik des Spiels implementieren:
+The project consists of several classes that implement the game's logic:
 
-- GameManager: Hauptlogik des Spiels, einschließlich Start des Spiels und Kampflogik.
-- Character: Definition der Charaktere, einschließlich ihrer Fähigkeiten und Statistiken.
-- Skill und abgeleitete Klassen (Punch, Kick, Block, Jump): Implementierung der verschiedenen Fähigkeiten, die Charaktere verwenden können.
-- Playmode und abgeleitete Klassen (PlaymodeEasy, PlaymodeHard): Logik für verschiedene Spielmodi gegen den Computer.
+- **GameManager**: Main logic of the game, including starting the game and combat logic.
+- **Character**: Defines the characters, including their abilities and stats.
+- **Skill and Derived Classes (Punch, Kick, Block, Jump)**: Implementation of the various abilities that characters can use.
+- **Playmode and Derived Classes (PlaymodeEasy, PlaymodeHard)**: Logic for different game modes against the computer.
